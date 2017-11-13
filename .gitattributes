@@ -1,3 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Parking_Violations_Issued_-_Fiscal_Year_2016.csv filter=lfs diff=lfs merge=lfs -text
+BK.CSV filter=lfs diff=lfs merge=lfs -text
+BXMapPLUTO.dbf filter=lfs diff=lfs merge=lfs -text
+bk.zip filter=lfs diff=lfs merge=lfs -text
+qn.zip filter=lfs diff=lfs merge=lfs -text
+qn.zi filter=lfs diff=lfs merge=lfs -text
+SIMapPLUTO.dbf filter=lfs diff=lfs merge=lfs -text
+QNMapPLUTO.dbf filter=lfs diff=lfs merge=lfs -text
+QN.csv filter=lfs diff=lfs merge=lfs -text
+BKMapPLUTO.dbf filter=lfs diff=lfs merge=lfs -text
